@@ -70,7 +70,6 @@ PKGS=(
 'autoconf' # build
 'automake' # build
 'base'
-'bash-completion'
 'bind'
 'binutils'
 'bison'
@@ -83,8 +82,6 @@ PKGS=(
 'bridge-utils'
 'btrfs-progs'
 'celluloid' # video players
-'cmatrix'
-'code' # Visual Studio code
 'cronie'
 'cups'
 'dialog'
@@ -97,6 +94,7 @@ PKGS=(
 'exfat-utils'
 'extra-cmake-modules'
 'filelight'
+'firefox'
 'flex'
 'fuse2'
 'fuse3'
@@ -116,16 +114,15 @@ PKGS=(
 'haveged'
 'htop'
 'iptables-nft'
-'jdk-openjdk' # Java 17
 'kate'
 'kcodecs'
 'kcoreaddons'
 'kdeplasma-addons'
 'kde-gtk-config'
 'kinfocenter'
+'krita'
 'kscreen'
 'kvantum-qt5'
-'kitty'
 'konsole'
 'kscreen'
 'layer-shell-qt'
@@ -143,6 +140,7 @@ PKGS=(
 'milou'
 'nano'
 'neofetch'
+'neovim'
 'networkmanager'
 'ntfs-3g'
 'ntp'
@@ -177,7 +175,6 @@ PKGS=(
 'steam'
 'sudo'
 'swtpm'
-'synergy'
 'systemsettings'
 'terminus-font'
 'traceroute'
